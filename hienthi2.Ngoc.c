@@ -1,11 +1,11 @@
-/*Cho 2 s? nguyên duong a, b v?i a <= b du?c nh?p t? bàn phím. 
-Vi?t chuong trình hi?n th? s? nguyên (n) thu?c [a, b] v?i yêu c?u:
-- Hi?n th? ra màn hình t? ti?ng Anh vi?t thu?ng tuong ?ng n?u 1<= n <= 9.
-- Hi?n th? ra màn hình even n?u n là s? ch?n và n > 9.
-- Hi?n th? ra màn hình odd n?u n là s? l? và n > 9.
+/*Cho 2 s? nguyÄ™n duong a, b v?i a <= b du?c nh?p t? bÅ•n phÃ­m. 
+Vi?t chuong trÄ›nh hi?n th? s? nguyÄ™n (n) thu?c [a, b] v?i yÄ™u c?u:
+- Hi?n th? ra mÅ•n hÄ›nh t? ti?ng Anh vi?t thu?ng tuong ?ng n?u 1<= n <= 9.
+- Hi?n th? ra mÅ•n hÄ›nh even n?u n lÅ• s? ch?n vÅ• n > 9.
+- Hi?n th? ra mÅ•n hÄ›nh odd n?u n lÅ• s? l? vÅ• n > 9.
 */
 #include"stdio.h"
-//Khai báo bi?n
+//Khai bÃ¡o bi?n
 int main(){
 	int a, b, n;
 	printf( "Nhap a va b (a<=b): ");
