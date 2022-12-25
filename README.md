@@ -7,5 +7,5 @@
 - [Giam20%neulahoivien](https://www.jdoodle.com/embed/v0/5yIB)
 
 ## HienthichuTiengAnh:
-- [Bai1]()
+- [Bai1](https://www.jdoodle.com/embed/v0/5FSb)
 - [Bai2](https://www.jdoodle.com/embed/v0/5F3p)
