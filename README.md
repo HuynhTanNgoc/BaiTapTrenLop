@@ -11,4 +11,5 @@
 - [Bai2](https://www.jdoodle.com/embed/v0/5FSc)
 
 ## Timtongcackyso
-- [Bai1](https://www.jdoodle.com/embed/v0/5FUF)
+- [Tinhtongcackyso](https://www.jdoodle.com/embed/v0/5FUF)
+- [Tachcackysokhongdungvonglap](jdoodle.com/a/5GEV).
