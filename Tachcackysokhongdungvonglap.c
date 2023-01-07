@@ -1,7 +1,7 @@
 #include<stdio.h>
 // 
 int main() {
-    // Khai báo bien 
+    // Khai bÃ¡o bien 
     // Bien S = 16
     // Bien n = 10564
    int S, n, tts;
